@@ -1,6 +1,6 @@
-#!bin/bash
 
-apt-get install python3-pip python3-dev git
+
+sudo apt-get install python3-pip python3-dev git
 echo "                "
 echo "                "
 echo "10% done"
